@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "43184495690",
+    "project_id": "seminarskirad-f1bae",
+    "storage_bucket": "seminarskirad-f1bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43184495690:android:571ed60e7ad6443c179ab3",
+        "android_client_info": {
+          "package_name": "com.example.seminarski_rad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43184495690-oul779c8j8cq57f40lf1c3p4dm71epkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSApr1ny85jq1_m7VdD6M_XNs0A3_8QdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43184495690-oul779c8j8cq57f40lf1c3p4dm71epkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43184495690-5a1a6rtqup1c9le9vj9upbe0hslegihm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vjezba"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43184495690:android:bba389f97a80041c179ab3",
+        "android_client_info": {
+          "package_name": "com.example.vjezba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43184495690-oul779c8j8cq57f40lf1c3p4dm71epkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSApr1ny85jq1_m7VdD6M_XNs0A3_8QdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43184495690-oul779c8j8cq57f40lf1c3p4dm71epkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43184495690-5a1a6rtqup1c9le9vj9upbe0hslegihm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vjezba"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
